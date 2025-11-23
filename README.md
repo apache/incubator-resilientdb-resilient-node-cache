@@ -17,6 +17,11 @@
 # under the License.
 #
 
+⚠️ This repository is deprecated.
+Active development now continues in the [ResilientDB Monorepo](https://github.com/apache/incubator-resilientdb).
+
+The Resilent Node Cache can be found at [ecosystem/cache/resilient-node-cache](https://github.com/apache/incubator-resilientdb/tree/master/ecosystem/cache/resilient-node-cache).
+
 # resilient-node-cache
 
 **TypeScript library for syncing ResilientDB data via WebSocket and HTTP with seamless reconnection.**
